@@ -1,0 +1,2 @@
+# counter-fire-coin
+cryptocurrency
